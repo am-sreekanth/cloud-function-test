@@ -1,3 +1,3 @@
 # cloud-function-test
 
-Cloud function testing 
+Cloud function testing from Slack
